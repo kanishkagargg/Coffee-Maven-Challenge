@@ -3,6 +3,9 @@ The most exciting and challenging project from Maven Analytics! The goal of the 
 
 For interactive Tableau Dashboard link: https://public.tableau.com/app/profile/kanishka.garg/viz/CoffeeTasteAnalysisMaven/Story1
 
+
+![Screenshot 2024-03-22 222652](https://github.com/kanishkagargg/Coffee-Maven-Challenge/assets/140965958/a14fe83a-11b4-4664-ae2a-d65807190e72)
+
 The dataset contains the results from a questionnaire of a "The Great American Coffee Taste Test" taken in US. This dataset contains 111 columns and lots of missing values that needed to be taken care for a authentic analysis. Hence using Excel, I made 9 tables from a single dataset:
 
 1) Demographics
